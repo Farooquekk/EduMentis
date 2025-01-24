@@ -2,8 +2,6 @@
 
 ## 📚 **EduMentis - Your Gateway to Learning & Mentorship** 🚀  
 
-![EduMentis Banner](https://via.placeholder.com/1200x400?text=EduMentis+Banner)  
-
 EduMentis is an innovative educational platform designed to connect learners with industry experts. Whether you're looking to **gain insights from professionals**, **explore curated courses**, or **receive 24/7 mentorship**, EduMentis provides the perfect ecosystem for growth.  
 
 > 🎯 **Mission:** Empower learners with **expert guidance, interactive learning,** and **career-focused skill development**.
@@ -22,7 +20,8 @@ EduMentis is an innovative educational platform designed to connect learners wit
 ---
 
 ## 🖥️ **Live Demo**  
-🚀 [EduMentis Live](#) *(https://edu-mentis-2t2w.vercel.app/)*  
+🚀 [EduMentis Live](https://edu-mentis-2t2w.vercel.app/)
+
 
 ---
 
